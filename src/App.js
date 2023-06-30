@@ -9,7 +9,6 @@ function App() {
       
       </div>
 
-      
       <div className="h-35-r w-35-r bg-gradient-to-r from-red-400 via-pink to-purple-500 rounded-full absolute top-96 -left-20 animate-pulse "></div>
       <div className="container h-96 w-96 bg-white bg-opacity-10 relative z-2 rounded-2xl shadow-5xl border border-r-0 border-b-0 border-opacity-30 backdrop-filter bacdrop-blur-sm">
       <form className="h-full flex flex-col justify-evenly items-center">
